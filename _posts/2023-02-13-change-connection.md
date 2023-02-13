@@ -1,6 +1,6 @@
 ---
-title: Hello World
-date: 2023-02-13 16:00:00 000
+title: How-to manage a Power Automate Flow connection
+date: 2023-02-13 16:15:00 000
 categories: [powerautomate,powerapps]
 tags: [powerautomate,powerapps]
 ---
