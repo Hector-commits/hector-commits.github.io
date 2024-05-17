@@ -9,7 +9,13 @@ published: true
 
 In this blog post, we will guide you through the steps to publish an Angular app in Azure using Visual Studio Code. By following these steps, you can easily deploy your Angular application and ensure it runs smoothly in the cloud.
 
-# First Step is to Sign in to Azure from VS Code
+# First Step is to create your Web App in Azure portal
+
+You will need to create a Azure resource Web App to host your application:
+
+![Sign in to Azure](/images/202403/CreateNewWebApp.png)
+
+# Now Sign in to Azure from VS Code
 
 Use the Azure App Service extension to log in to Azure from VS Code:
 
