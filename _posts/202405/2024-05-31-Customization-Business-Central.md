@@ -9,7 +9,7 @@ published: true
 
 Microsoft Dynamics 365 Business Central continues to evolve, offering increasingly powerful customization options. One feature that stands out is the ability to display fields that are hidden but present in the table. 
 
-![Hidden](/_posts/202405/img/Hidden.png)
+![Hidden](/images/202405/Hidden.png)
 
 This enhancement dramatically increases the flexibility and capability of both clients and functional consultants to configure the application without any code modifications.
 
@@ -17,26 +17,26 @@ This enhancement dramatically increases the flexibility and capability of both c
 
 A notable addition to the customization toolkit is the "Table fields not on the page object" feature. Initially, this option appears disabled when you start customizing a page. 
 
-![Table fields not on the page object](/_posts/202405/img/Table_fields_not_on_the_page_object.png)
+![Table fields not on the page object](/images/202405/Table_fields_not_on_the_page_object.png)
 
 However, this changes when you enter the customization mode for a specific role.
 
-![Customize Pages](/_posts/202405/img/Customize_pages.png)
+![Customize Pages](/images/202405/Customize_pages.png)
 
 By enabling this mode, you can view and interact with fields that were previously inaccessible through regular customization options. 
 
-![Table Fields Displayed](/_posts/202405/img/Fields_table_displayed.png)
+![Table Fields Displayed](/images/202405/Fields_table_displayed.png)
 
 
 ## Customizing Page Actions
 
 Beyond field visibility, Business Central also allows for extensive customization of page actions. Users can move, hide, and modify actions according to their workflow requirements.
 
-![Customize options](/_posts/202405/img/Customize_options.png)
+![Customize options](/images/202405/Customize_options.png)
 
 This feature ensures that the interface remains clean and efficient, displaying only the most relevant actions for a particular user or role. It streamlines operations and enhances user productivity by reducing the clutter of unnecessary options.
 
-![Customize options](/_posts/202405/img/Action_options.png)
+![Customize options](/images/202405/Action_options.png)
 
 ## Benefits for Clients and Consultants
 
