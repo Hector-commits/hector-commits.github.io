@@ -11,7 +11,7 @@ In this blog post, we will guide you through the steps to publish an Angular app
 
 # First Step is to create your Web App in Azure portal
 
-You will need to create a Azure resource Web App to host your application:
+You will need to create a Azure resource Web App to host your application, you will need to create the Web App in the specific OS that you've used to develop your application:
 
 ![Sign in to Azure](/images/202403/CreateNewWebApp.png)
 
