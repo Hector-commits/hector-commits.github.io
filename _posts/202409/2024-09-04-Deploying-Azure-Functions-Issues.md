@@ -37,10 +37,12 @@ After facing some issues with the VS Code deployment, I turned to **Azure CLI**,
    Once the environment was set, I opened the command console in the project folder and executed the following command to log in to Azure:
    ```bash
    az login
+   ```
 5. **Deployment with Azure CLI**
     I used **Azure CLI** to perform the full deployment of the function with the following command:
     ```bash
     func azure functionapp publish <YourFunctionAppName> --build remote --force --dotnet
+    ```
 
 ### Command options:
 
